@@ -32,7 +32,8 @@ Seguir los siguientes pasos para poder ejecutar el proyecto localmente:
 3. Abrir la solución en Visual Studio.
 4. Compilar la solución y verificar/instalar las dependencias de los proyectos.
 5. Ajustar la cadena de conexión a la base de datos en el archivo appsettings.json.
-6. Compilar y ejecutar el proyecto.
+6. Ejecutar la migración del proyecto para crear las tablas en la base de datos.
+7. Compilar y ejecutar el proyecto.
 
 ---
 
